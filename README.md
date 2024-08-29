@@ -1,7 +1,7 @@
 # Olá Mundo, eu sou o Gabriel! 👋
 
 <picture>
-    <source align='right' media="(prefers-color-scheme: DAR)" srcset='https://github.com/user-attachments/assets/a4c758c1-00c0-4d06-82ee-9ddef817db3d' />
+    <source align='right' media="(prefers-color-scheme: light)" srcset='https://github.com/user-attachments/assets/a4c758c1-00c0-4d06-82ee-9ddef817db3d' />
     <source align='right' media="(prefers-color-scheme: dark)" srcset='https://github.com/user-attachments/assets/917b8403-31a2-4fe3-99a5-97ca58cfc3db' />
     <img align='right' alt='GIF' srcset='https://github.com/user-attachments/assets/a4c758c1-00c0-4d06-82ee-9ddef817db3d' width="250" height="250"/>
 </picture> 
