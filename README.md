@@ -3,7 +3,7 @@
 <picture>
     <source align='right' media="(prefers-color-scheme: light)" srcset='https://github.com/user-attachments/assets/a4c758c1-00c0-4d06-82ee-9ddef817db3d' />
     <source align='right' media="(prefers-color-scheme: dark)" srcset='https://github.com/user-attachments/assets/917b8403-31a2-4fe3-99a5-97ca58cfc3db' />
-    <img align='right' alt='GIF' srcset='https://github.com/user-attachments/assets/a4c758c1-00c0-4d06-82ee-9ddef817db3d' width="250" height="250"/>
+    <img align='right' alt='GIF' srcset='https://github.com/user-attachments/assets/a4c758c1-00c0-4d06-82ee-9ddef817db3d' width="230" height="230"/>
 </picture> 
 
 ### Sou apaixonado por tecnologia e inovação, <br>sempre em busca de aprender e compartilhar conhecimento!
@@ -12,7 +12,7 @@
 - 🌱 Estou atualmente aprendendo sobre Kotlin e Android
 - 👯 Estou disposto a trabalhar em novos projetos
 - 💬 Me pergunte sobre... qualquer coisa
-- ⚡ Fato interessante: Estou atualmente aprendendo a língua Japonesa
+- ⚡ Fato interessante: Estou atualmente estudando a língua Japonesa
 <br />
 
 ---
